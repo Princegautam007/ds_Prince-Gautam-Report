@@ -26,3 +26,8 @@ Analysis of trader profitability, volume, and exposure under Fear vs Greed marke
 
 Open `notebook\_1.ipynb` in Google Colab and run all cells.
 
+## Data Note
+Raw historical trading data was excluded due to size constraints.
+The notebook assumes access to the original dataset via the provided assignment link.
+
+
